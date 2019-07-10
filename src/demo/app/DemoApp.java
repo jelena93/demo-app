@@ -17,6 +17,7 @@ public class DemoApp {
     public static void main(String[] args) {
         Student student = new Student("Laki", "Topalovic");
         System.out.println("Student: " + student);
+        student.setFirstName("//////");
         
         Pisac.ispisi();
     }
