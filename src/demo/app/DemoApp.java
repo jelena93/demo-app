@@ -15,8 +15,12 @@ public class DemoApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Student student = new Student("Adolf", "Sreckovic");
+        Student student = new Student("Josip", "Broz");
+        Student studentJelena = new Student("Jelena", "Smith");
+        Student studentCarli = new Student("Rudolf", "AdolfSon");
+        Student student1 = new Student("Adolf", "Sreckovic");
         System.out.println("Student: " + student);
+        student.setFirstName("//////");
         
         Pisac.ispisi();
     }
