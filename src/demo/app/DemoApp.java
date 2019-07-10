@@ -15,9 +15,9 @@ public class DemoApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Student student = new Student("Adolf", "Hitler");
-        Student studentJelena = new Student("Jelena", "Smith");
+        Student student = new Student("Laki", "Topalovic");
         System.out.println("Student: " + student);
+        student.setFirstName("//////");
         
         System.out.println("OVO JE NESTO U NOVOJ GRANI");
         
