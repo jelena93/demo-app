@@ -13,7 +13,10 @@ public class Student {
 
     private String firstName;
     private String lastName;
-    private String Indeks;
+
+
+    private String indexNumber;    
+
 
     public Student(String firstName, String lastName) {
         this.firstName = firstName;
