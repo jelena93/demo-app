@@ -7,7 +7,7 @@ package demo.app;
 
 public class Pisac {
     
-    public void ispisi() {
+    public static void ispisi() {
     System.out.println("Pozdrav citaocima mojih knjiga!");
 }
     
