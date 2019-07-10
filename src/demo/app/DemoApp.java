@@ -15,7 +15,8 @@ public class DemoApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Student student = new Student("John", "Smith");
+        System.out.println("Student: " + student);
     }
-    
+
 }
