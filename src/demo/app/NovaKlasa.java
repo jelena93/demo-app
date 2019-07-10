@@ -5,10 +5,6 @@
  */
 package demo.app;
 
-/**
- *
- * @author Uros
- */
 public class NovaKlasa {
     
 }
