@@ -19,6 +19,8 @@ public class DemoApp {
         Student studentJelena = new Student("Jelena", "Smith");
         System.out.println("Student: " + student);
         
+        System.out.println("OVO JE NESTO U NOVOJ GRANI");
+        
         Pisac.ispisi();
     }
 
