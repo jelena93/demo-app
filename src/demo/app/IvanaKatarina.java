@@ -7,8 +7,9 @@ package demo.app;
 
 /**
  *
- * @author javaweb
+ * @author java
  */
-public class Profa {
+public class IvanaKatarina {
+    String pesma;
     
 }

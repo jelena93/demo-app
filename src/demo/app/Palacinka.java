@@ -7,8 +7,14 @@ package demo.app;
 
 /**
  *
- * @author javaweb
+ * @author student1
  */
-public class Profa {
+public class Palacinka {
+    private String proizvodjac;
+    private String namaz;
+    private String dodatak1;
+    private String dodatak2;
+    private String dodatak3;
+    int cena;
     
 }
