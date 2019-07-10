@@ -17,6 +17,7 @@ public class DemoApp {
     public static void main(String[] args) {
         Student student = new Student("Josip", "Broz");
         Student studentJelena = new Student("Jelena", "Smith");
+        Student studentCarli = new Student("Carli", "Caplin");
         System.out.println("Student: " + student);
         student.setFirstName("//////");
         
